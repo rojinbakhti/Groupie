@@ -1,6 +1,6 @@
 # Groupie
 
-Tech: Java, CSS, ReactJS, Docker, Gherkin, HTML, CSS, SQLite
+Tech: Java, ReactJS, Docker, Gherkin, HTML, CSS, SQLite, Cucumber
 
 ### Groupie is a web application that helps friends set a group date. Using the Groupie you can:
 - Browse local concert events using the Ticketmaster API. 
